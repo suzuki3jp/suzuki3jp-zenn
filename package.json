@@ -1,0 +1,7 @@
+{
+  "name": "suzuki3jp-zenn",
+  "private": true,
+  "dependencies": {
+    "zenn-cli": "^0.1.157"
+  }
+}
