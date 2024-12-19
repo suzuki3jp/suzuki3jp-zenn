@@ -3,7 +3,7 @@ title: "YouTube (Music) のプレイリスト管理を楽にするウェブア�
 emoji: "🗂"
 type: "idea"
 topics: ["nextjs", "react", "typescript", "i18n", "youtube"]
-published: false
+published: 2024-12-21 12:00
 ---
 # はじめに
 こんにちは。[鈴木](https://github.com/suzuki3jp)です。
@@ -21,7 +21,10 @@ YouTube, YouTube Music のプレイリストを管理できます。
 - プレイリスト同士を結合
 - プレイリストを削除
 - プレイリストのアイテムを検索
-TODO: スクショを追加 figure 1みたいな感じで指定してもいいかも
+![](/images/playlist-manager-for-youtube/playlistmanager.png)
+*プレイリストを管理する画面*
+![](/images/playlist-manager-for-youtube/playlistitemsbrowser.png)
+*プレイリストアイテムの検索画面*
 
 # 開発の背景
 ## プレイリスト同士をマージしたい
@@ -82,3 +85,6 @@ https://zenn.dev/suzuki3jp/articles/nextjs-i18n-20241115
   - ユースケースによってはより便利になる
 
 # さいごに
+今後も継続してメンテナンスを続けていくつもりです。
+よければ Github リポジトリにスターをお願いします！
+https://github.com/suzuki3jp/YouTubePlaylistManager
