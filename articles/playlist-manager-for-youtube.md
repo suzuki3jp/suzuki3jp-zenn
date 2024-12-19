@@ -8,7 +8,7 @@ published_at: 2024-12-21 12:00
 ---
 # はじめに
 こんにちは。[鈴木](https://github.com/suzuki3jp)です。
-個人開発で YouTube、YouTube Music のプレイリストを簡単にするウェブアプリケーション [**Playlist Manager For YouTube**](https://pmfy.suzuki3.jp) を開発しました。
+個人開発で YouTube、YouTube Music のプレイリストを簡単にするウェブアプリケーション **Playlist Manager For YouTube** (https://pmfy.suzuki3.jp) を開発しました。
 リポジトリはこちらです。
 https://github.com/suzuki3jp/YouTubePlaylistManager
 :::message alert
