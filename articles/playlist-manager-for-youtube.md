@@ -3,7 +3,8 @@ title: "YouTube (Music) のプレイリスト管理を楽にするウェブア�
 emoji: "🗂"
 type: "idea"
 topics: ["nextjs", "react", "typescript", "i18n", "youtube"]
-published: 2024-12-21 12:00
+published: true
+published_at: 2024-12-21 12:00
 ---
 # はじめに
 こんにちは。[鈴木](https://github.com/suzuki3jp)です。
